@@ -2,3 +2,4 @@
 # gyümölcsök
 # napsütés
 # napszemcsi
+# akarmi
